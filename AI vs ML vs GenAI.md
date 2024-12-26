@@ -2,6 +2,30 @@
 ![alt text](image.png)
 
 
+# RoadMap To Learn
+
+*  Python Programming Language
+
+*  Stastics for Data Science - 
+    https://www.youtube.com/watch?v=zRUliXuwJCQ&list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO
+
+* Machine Learning Models -
+    https://www.youtube.com/watch?v=z8sxaUw_f-M&list=PLZoTAELRMXVPjaAzURB77Kz0YXxj65tYz
+
+* Deep Learning Community Session - 
+    https://www.youtube.com/watch?v=8arGWdq_KL0&list=PLZoTAELRMXVPiyueAqA_eQnsycC_DSBns 
+
+*  Basic NLP 
+    https://www.youtube.com/watch?v=CG9iLLhqQF8 
+
+*  Basic Deep Learning
+    https://www.youtube.com/watch?v=8arGWdq_KL0&list=PLZoTAELRMXVPiyueAqA_eQnsycC_DSBns
+
+*  Advances NLP Concepts 
+    
+*  Gen AI
+
+
 # AI 
 
 * Build Application that can perform its own task with human intervention.
