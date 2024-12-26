@@ -16,14 +16,15 @@
     https://www.youtube.com/watch?v=8arGWdq_KL0&list=PLZoTAELRMXVPiyueAqA_eQnsycC_DSBns 
 
 *  Basic NLP 
-    https://www.youtube.com/watch?v=CG9iLLhqQF8 
+    https://www.youtube.com/watch?v=8arGWdq_KL0&list=PLZoTAELRMXVPiyueAqA_eQnsycC_DSBns
 
 *  Basic Deep Learning
     https://www.youtube.com/watch?v=8arGWdq_KL0&list=PLZoTAELRMXVPiyueAqA_eQnsycC_DSBns
 
 *  Advances NLP Concepts 
-    
-*  Gen AI
+    https://www.youtube.com/watch?v=ZwYtqTaZ2io&list=PLZoTAELRMXVNNrHSKv36Lr3_156yCo6Nn&index=9
+
+*  Gen AI Topics
 
 
 # AI 
