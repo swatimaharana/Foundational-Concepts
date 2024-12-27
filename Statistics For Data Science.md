@@ -111,7 +111,7 @@ P = percentile.
 
 
 # Five Number Summary 
-* This is used to remove the outliar
+* This is used to remove the outliars from data.
     * Minimum
     * Q1 (the first quartile, or the 25% mark),
     * Median
