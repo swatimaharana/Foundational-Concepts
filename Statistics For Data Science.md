@@ -93,3 +93,59 @@ x increases then y decreases - -ve co-variance
 
 ![alt text](image-7.png)
 
+
+# Percentile and Quartiles
+
+* Percentile -  describes how a score compares to other scores from the same set. 
+percentile = no of values below x / total number of values * 100 
+
+P = (n/N) × 100
+
+Where, 
+n = ordinal rank of the given value or value below the number. 
+N = number of values in the data set. 
+P = percentile.
+
+* fetch the number from percentile
+
+
+
+# Five Number Summary 
+* This is used to remove the outliar
+    * Minimum
+    * Q1 (the first quartile, or the 25% mark),
+    * Median
+    * Q3 (the third quartile, or the 75% mark)
+    * Maximum
+
+
+{1,2,3,4,5,6,60}
+n = 7
+
+Lower fence = Q1 - 1.5 (IQR)
+Upper fence = Q3 + 1.5 (IQR)
+
+IQR = Q3 - Q1
+
+Q1 = 25/100 * (7+1) = 2 (index position) = 2
+Q3 = 75/100 * (7+1) = 6 (index position) = 6
+
+IQR = 6 -2 = 4
+
+Lower fence = 2 - 1.5*4 = 2-6 = -4
+Upper fence = 6 + 6 = 12
+
+Outliar = 60
+
+{1,2,3,4,5,6}
+
+minimum = 1
+Q1 = 3
+median = 3.5
+Q3 = 6
+max = 6
+
+* Box Plot
+
+![alt text](image-8.png)
+
